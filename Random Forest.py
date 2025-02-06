@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 載入資料集
-df = pd.read_csv('DDoS_Detect_Using_ML/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv')
+df = pd.read_csv('Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv')
 
 # 處理非數值型欄位並刪除不需要的欄位
 df.columns = df.columns.str.strip()  # 移除所有欄位名稱的空格
