@@ -8,6 +8,10 @@ This study analyzed the applicability and advantages and disadvantages of differ
 
 Keywords: DDoS attack, machine learning, network security, anomaly detection, CIC-DDoS2019
 
+# What is Machine Learning
+
+
+
 # Random Forest
 
 
