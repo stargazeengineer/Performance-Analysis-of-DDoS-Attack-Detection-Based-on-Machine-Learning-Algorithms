@@ -8,7 +8,7 @@ import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 
 # 載入資料集
-df = pd.read_csv('DDoS_Detect_Using_ML/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv')
+df = pd.read_csv('Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv')
 
 # 處理非數值型欄位並刪除不需要的欄位
 df = df.drop(columns=['Flow ID', ' Source IP', ' Destination IP', ' Timestamp'])
