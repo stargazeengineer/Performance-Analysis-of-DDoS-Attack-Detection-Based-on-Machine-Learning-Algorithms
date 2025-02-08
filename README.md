@@ -10,7 +10,9 @@ Keywords: DDoS attack, machine learning, network security, anomaly detection, CI
 
 # What is Machine Learning
 
+# Preprocessing
 
+![image](https://github.com/user-attachments/assets/04b87d3d-c219-49e7-8c00-30cede289100)
 
 # Random Forest
 
