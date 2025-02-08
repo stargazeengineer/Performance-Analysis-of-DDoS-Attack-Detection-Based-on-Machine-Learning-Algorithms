@@ -1,12 +1,10 @@
 # Performance Analysis of DDoS Attack Detection Based on Machine Learning Algorithms
 
-In recent years, Distributed Denial-of-Service (DDoS) attacks have become a major challenge in the field of network security. This study aims to analyze different machine learning algorithms and identify the best one to improve the accuracy of DDoS attack detection. I selected five classic machine learning algorithms: Random Forest, SVM, KNN, Logistic Regression, and Naive Bayes, and conducted experiments on the CIC-DDoS2019 dataset.
+近年來，分散式阻斷服務（DDoS）攻擊已成為網路安全領域的一大挑戰。本研究旨在分析不同的機器學習演算法，並找出最佳方法以提高 DDoS 攻擊檢測的準確性。我選擇了五種經典的機器學習演算法：隨機森林（Random Forest）、支援向量機（SVM）、K-近鄰（KNN）、邏輯回歸（Logistic Regression）以及朴素貝葉斯（Naive Bayes），並在 CIC-DDoS2019 資料集上進行實驗。
 
-The results showed that Random Forest, SVM, and KNN performed excellently, achieving accuracy and F1-scores above 99.74%. Logistic Regression had an accuracy of 97.82%, but still exhibited a small number of classification errors. Naive Bayes performed relatively poorly when processing network traffic data due to its assumption of independent features. I also used ROC curves and AUC values to evaluate the performance of the models.
+結果顯示，隨機森林、SVM 和 KNN 的表現最佳，準確率與 F1-score 均達到 99.74% 以上。邏輯回歸的準確率為 97.82%，但仍存在少量分類錯誤。由於朴素貝葉斯假設特徵之間相互獨立，因此在處理網路流量數據時表現較差。我還使用 ROC 曲線與 AUC 值來評估各模型的效能。
 
-This study analyzed the applicability and advantages and disadvantages of different machine learning algorithms in DDoS attack detection, providing a reference for practical applications. The project code includes the complete process of data preprocessing, model training, and evaluation, making it convenient for researchers to reproduce the experimental results.The code is also in this file and includes explanations for each step.
-
-Keywords: DDoS attack, machine learning, network security, anomaly detection, CIC-DDoS2019
+本研究分析了不同機器學習演算法在 DDoS 攻擊檢測中的適用性及其優缺點，為實際應用提供了參考。本專案的程式碼包含完整的數據預處理、模型訓練與評估過程，使研究人員能夠輕鬆重現實驗結果。該程式碼也包含各步驟的詳細說明。
 
 # What is Machine Learning
 
