@@ -8,10 +8,20 @@
 
 # What is Machine Learning
 
+# About CIC-DDoS2019 Dataset
+
 # Preprocessing
 
 ![image](https://github.com/user-attachments/assets/04b87d3d-c219-49e7-8c00-30cede289100)
 
 # Random Forest
 
+# SVM
 
+# KNN
+
+# Logic Regressor
+
+# Naive Bayes
+
+# Conclusion
